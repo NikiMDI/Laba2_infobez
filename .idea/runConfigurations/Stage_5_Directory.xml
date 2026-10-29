@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Stage 5 Directory" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.nikita.stage5.Stage5Demo" />
+    <module name="PEAnaliz" />
+    <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
