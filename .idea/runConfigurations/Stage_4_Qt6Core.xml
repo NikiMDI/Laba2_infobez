@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Stage 4 Qt6Core" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="com.nikita.stage4.Stage4Demo" />
+    <module name="PEAnaliz" />
+    <option name="VM_PARAMETERS" value="-Dfile.encoding=UTF-8" />
+    <option name="PROGRAM_PARAMETERS" value="&quot;C:\Users\Nikita\Desktop\Магистры\Магистры\PE Bear\Qt6Core.dll&quot;" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
